@@ -1,0 +1,13 @@
+# Kamin Horvath
+
+## Posts
+
+=> posts/gemini.gmi [2024-02-26] I'm now in Geminispace
+=> posts/getting-started-microvms.gmi [2024-01-18] Getting Started with MicroVMs
+=> posts/libvirt-in-podman.gmi [2024-01-16] Libvirt in Podman
+=> posts/68k-mac-qemu.gmi [2024-01-07] 68k Mac Emulation in QEMU
+=> posts/hyperv2019-gui.gmi [2023-08-03] Running a GUI on Hyper-V Server 2019
+=> posts/bluesky-mastodon-threads.gmi [2023-07-05] Thoughts on Bluesky, Mastodon, and Threads
+=>posts/rhel-source.gmi [2023-06-21] Red Hat is restricting RHEL source availability to CentOS Stream
+=>posts/nt4-in-libvirt.gmi [2023-06-20] Windows NT 4 in Libvirt
+=>posts/into-the-fediverse.gmi [2023-06-19] Into the Fediverse

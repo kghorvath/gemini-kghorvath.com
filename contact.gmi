@@ -1,0 +1,21 @@
+# Kamin Horvath
+
+## Contact
+
+### Email
+
+* kamin@kghorvath.com
+* My PGP key fingerprint is 7270B1E4CCFF3889F0DE56576AD93F1D3F3ACCCC, available on the OpenPGP keyserver.
+
+### Social
+
+* Mastodon - @kamin@social.kghorvath.com
+* AT Protocol - @kghorvath.com
+* PeerTube - @kamin@peertube.kghorvath.com
+* Hacker News - itsmartapuntocom
+* I am not on Facebook or Twitter (aka X) because I disagree with the privacy invasiveness and the direction of those platforms.
+
+### Code
+
+* Gitlab - khorvath
+* Github - kghorvath

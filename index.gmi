@@ -14,9 +14,9 @@ In my free time, I enjoy gaming, home improvement, and being a dad.
 
 ## Latest Posts
 
-=>posts/gemini.gmi I'm now in Geminispace
-=>posts/getting-started-microvms.gmi Getting Started with MicroVMs
-=>posts/libvirt-in-podman.gmi Libvirt in Podman
+=>posts/vm-autoresize.gmi Fixing VM Guest Auto-Resizing on HiDPI Hosts
+=>posts/atmigrationpt2.gmi Federation with the AT Protocol - Part 2
+=>posts/atmigration.gmi Federation with the AT Protocol - Part 1
 
 ## Links
 

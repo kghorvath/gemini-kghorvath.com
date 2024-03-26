@@ -2,6 +2,9 @@
 
 ## Posts
 
+=>posts/vm-autoresize.gmi [2024-03-25] Fixing VM Guest Auto-Resizing on HiDPI Hosts
+=> posts/atmigrationpt2.gmi [2024-03-12] Federation with the AT Protocol - Part 2
+=> posts/atmigration.gmi [2024-03-11] Federation with the AT Protocol - Part 1
 => posts/gemini.gmi [2024-02-26] I'm now in Geminispace
 => posts/getting-started-microvms.gmi [2024-01-18] Getting Started with MicroVMs
 => posts/libvirt-in-podman.gmi [2024-01-16] Libvirt in Podman
